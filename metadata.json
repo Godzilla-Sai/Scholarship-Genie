@@ -1,0 +1,5 @@
+{
+  "name": "Scholarship Genie",
+  "description": "An AI-powered scholarship eligibility checker and finder that uses Gemini with Google Search to match students with real-world financial aid opportunities based on their academic and personal profiles.",
+  "requestFramePermissions": []
+}
